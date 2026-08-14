@@ -1,0 +1,7 @@
+{
+    "custom_commands": {
+        "open github": "https://github.com",
+        "open gmail": "https://mail.google.com",
+        "open linkedin": "https://www.linkedin.com"
+    }
+}
